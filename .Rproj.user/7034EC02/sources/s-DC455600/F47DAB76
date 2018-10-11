@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539284789159.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F47DAB76",
+    "lastKnownWriteTime" : 1539284844,
+    "last_content_update" : 1539284844787,
+    "path" : "~/Desktop/git-repos/R/oneWay/vignettes/introduction_to_oneway.Rmd",
+    "project_path" : "vignettes/introduction_to_oneway.Rmd",
+    "properties" : {
+        "cursorPosition" : "9,3",
+        "scrollLine" : "9"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
